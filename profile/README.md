@@ -1,4 +1,4 @@
-# Welcome to Amirkabir University of Technology, Electrical Engineering Department, Dicrete-time Signal Processign Course
+# Dicrete-time Signal Processing Course - Dr. Hamid Sheikhzadeh
 
 ![51v48p99JjL _SX404_BO1,204,203,200_](https://user-images.githubusercontent.com/47852354/138497839-11dfd176-7006-4a3a-85c8-2bc27988501c.jpg)
 
@@ -25,3 +25,7 @@
 2. DTFT of Periodic Signals and Sampling of DTFT 
 3. DFT and Its Properties 
 4. Linear Convolution by DFT
+
+----
+**Amirkabir University of Technology, Electrical Engineering Department**
+
