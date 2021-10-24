@@ -1,17 +1,18 @@
 <div align="center">
-  *In The Name Of God*
+<i>In The Name Of God</i>
+<p>
+<img src="https://user-images.githubusercontent.com/47852354/138606939-53c2ec1d-b641-461f-a523-13dca01447dd.PNG" width="300">
+</p>
+ 
+## Dr. Hamid Sheikhzadeh
+ 
+<b> TA and Workshop Team: Mhammadsaleh Tabatabaei - Mohammad Chalaki - Arshia Samoudi
+ 
+ Alireza Najafi - Seyedali Seyedhosseini - Kimia Ghodsifar </b>
 
-  <img src="https://user-images.githubusercontent.com/47852354/138564509-b5dffb4e-f48b-4db5-b8a4-1385ef2b22c8.png" width="150">
-
-  <img src="https://user-images.githubusercontent.com/47852354/138606939-53c2ec1d-b641-461f-a523-13dca01447dd.PNG" width="300">
-
-  # Dicrete-time Signal Processing
-  ---
-  **Dr. Hamid Sheikhzadeh ** 
-  ** TA and Workshop Team: Mhammadsaleh Tabatabaei - Mohammad Chalaki - Arshia Samoudi - Alireza Najafi - Seyedali Seyedhosseini - Kimia Ghodsifar **
+---
 </div>
 
-![51v48p99JjL _SX404_BO1,204,203,200_](https://user-images.githubusercontent.com/47852354/138497839-11dfd176-7006-4a3a-85c8-2bc27988501c.jpg)
 
 ## Discrete-Time Signals and Systems, The Z-Transform and its properties, Sampling and Reconstruction of Continuous-Time Signals
 ### Transform Analysis of LTI Systems:
@@ -37,6 +38,15 @@
 3. DFT and Its Properties 
 4. Linear Convolution by DFT
 
-----
-**Amirkabir University of Technology, Electrical Engineering Department**
+<p>
+<img src="https://user-images.githubusercontent.com/47852354/138497839-11dfd176-7006-4a3a-85c8-2bc27988501c.jpg" width="300">
+</p>
 
+---
+
+<div align="center">
+<p>
+ <img src="https://user-images.githubusercontent.com/47852354/138564509-b5dffb4e-f48b-4db5-b8a4-1385ef2b22c8.png" width="120">
+ <img src="https://user-images.githubusercontent.com/47852354/138607395-e18bfc7a-204c-495a-914f-bd5cf8436ca4.jpg" width="80">
+</p>
+</DIV>
