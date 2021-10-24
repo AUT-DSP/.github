@@ -1,4 +1,15 @@
-# Dicrete-time Signal Processing Course - Dr. Hamid Sheikhzadeh
+<div align="center">
+  *In The Name Of God*
+
+  <img src="https://user-images.githubusercontent.com/47852354/138564509-b5dffb4e-f48b-4db5-b8a4-1385ef2b22c8.png" width="150">
+
+  <img src="https://user-images.githubusercontent.com/47852354/138606939-53c2ec1d-b641-461f-a523-13dca01447dd.PNG" width="300">
+
+  # Dicrete-time Signal Processing
+  ---
+  **Dr. Hamid Sheikhzadeh ** 
+  ** TA and Workshop Team: Mhammadsaleh Tabatabaei - Mohammad Chalaki - Arshia Samoudi - Alireza Najafi - Seyedali Seyedhosseini - Kimia Ghodsifar **
+</div>
 
 ![51v48p99JjL _SX404_BO1,204,203,200_](https://user-images.githubusercontent.com/47852354/138497839-11dfd176-7006-4a3a-85c8-2bc27988501c.jpg)
 
