@@ -6,7 +6,7 @@
  
 ## Dr. Hamid Sheikhzadeh
  
-<b> TA and Workshop Team: Mhammadsaleh Tabatabaei - Mohammad Chalaki - Arshia Samoudi
+<b> TA and Workshop Team: Mohammadsaleh Tabatabaei - Mohammad Chalaki - Arshia Samoudi
  
  Alireza Najafi - Seyedali Seyedhosseini - Kimia Ghodsifar </b>
 
