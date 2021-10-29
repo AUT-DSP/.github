@@ -2,7 +2,7 @@
 <i>In The Name Of God</i>
 
  
-## Dr. Hamid
+## Dr. Hamid Sheikhzadeh
  
 <b> TA and Workshop Team: Mohammadsaleh Tabatabaei - Mohammad Chalaki - Arshia Samoudi
  
